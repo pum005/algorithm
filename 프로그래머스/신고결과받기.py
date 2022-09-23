@@ -2,7 +2,6 @@ def solution(id_list, report, k):
     answer = []
     
     stop_list = []
-    
     d = {}
     id_dic = {}
     
@@ -39,5 +38,3 @@ def solution(id_list, report, k):
 
 
 solution(["muzi", "frodo", "apeach" , "neo"], ["muzi frodo" , "apeach frodo", "frodo neo", "muzi neo", "apeach muzi"], 2)
-
-# print(1)

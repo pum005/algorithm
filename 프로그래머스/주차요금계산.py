@@ -20,7 +20,6 @@ def solution(fees, records):
         else:
             d[number] = [time]
     
-    
     id_ls.sort()
                      
     for id in id_ls:
